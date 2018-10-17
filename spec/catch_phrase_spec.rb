@@ -9,3 +9,4 @@ describe "#catch_phrase" do
     phrase= "It's-a me,Mario!"
     puts phrase
 end
+require "spec_helper"
