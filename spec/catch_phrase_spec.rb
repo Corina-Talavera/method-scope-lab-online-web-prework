@@ -7,5 +7,5 @@ describe "#catch_phrase" do
   end
   def catch_phrase
     phrase= "It's-a me, Mario!"
-    puts phrase
+    puts #phrase
 end
