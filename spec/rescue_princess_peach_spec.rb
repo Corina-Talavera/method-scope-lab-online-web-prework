@@ -6,5 +6,6 @@ describe "#rescue_princess_peach" do
     expect{puts status}.to raise_error(NameError)
   end 
   def rescue_princess_peach
+  status=rescued
   
 end
